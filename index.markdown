@@ -5,8 +5,8 @@ Peter Slempers Markdown Portolio
 ========
 
 <ul id="Project Submenu">
-    <li><a href="/markdown-portfolio/index/" title="Home">Home</a></li>
-    <li><a href="/markdown-portfolio/about/" title="About">About</a></li>
+    <li><a href="index.markdown" title="Home">Home</a></li>
+    <li><a href="about.markdown" title="About">About</a></li>
 
 ## What is this?
 
