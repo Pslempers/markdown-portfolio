@@ -1,16 +1,16 @@
 > This is my first Markdown file.
 > I'm not sure how often I'll really use this!
 
-Peter Slempers Markdown
+Peter Slempers Markdown Portolio
 ========
 
-<p>Peter Slempers</p>
+## What is this?
 
 <p>This is my Markdown Portfolio.</p>
 
 <p>I've always aspired to be a well-rounded professional. I made this to help me seek future experiences that will allow me to sharpen many skills at once so I can continue to improve as a graceful collaborator.</p>
 
-<p>I am passionate about:</p>
+## I am passionate about:
 
 <ul>
 <li><p>facilitating safe spaces for growth,</p></li>
