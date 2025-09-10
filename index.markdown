@@ -8,7 +8,11 @@ Peter Slempers Markdown Portolio
 
 <p>This is my Markdown Portfolio.</p>
 
-<p>I've always aspired to be a well-rounded professional. I made this to help me seek future experiences that will allow me to sharpen many skills at once so I can continue to improve as a graceful collaborator.</p>
+<p>The goal of this document is to display an understanding of the Markup Language. Here, I will also share some links and information about me.
+
+## Who am I?
+
+<p>I'm Peter! I've always aspired to be a well-rounded professional. I made this to help me seek future experiences that will allow me to sharpen many skills at once so I can continue to improve as a graceful collaborator.</p>
 
 ## I am passionate about:
 
