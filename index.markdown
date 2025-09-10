@@ -1,3 +1,6 @@
+Header 1
+========
+
 <p>Peter Slempers</p>
 
 <p>This is my Markdown Portfolio.</p>
