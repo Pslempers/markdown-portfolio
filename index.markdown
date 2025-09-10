@@ -1,4 +1,7 @@
-Header 1
+> This is my first Markdown file.
+> I'm not sure how often I'll really use this!
+
+Peter Slempers Markdown
 ========
 
 <p>Peter Slempers</p>
